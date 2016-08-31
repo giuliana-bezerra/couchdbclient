@@ -24,7 +24,7 @@ Follow the steps to execute the app:
 
 1. Download the repository:
 ```
-git clone git@www-git.prevnet:DIASRN/couchdbrestclient.git
+git clone git@github.com:giuliana-bezerra/couchdbclient.git
 ```
 2. Generate the jar with dependencies using Maven:
 ```
